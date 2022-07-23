@@ -23,7 +23,7 @@ The purpose of this analysis is to help Louise guage how each campaign performed
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 - What can you conclude about the Outcomes based on Goals?
-
+2185 campaigns were successful 
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
