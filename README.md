@@ -13,18 +13,19 @@ The purpose of this analysis is to help Louise guage how each campaign performed
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+the campaign launched in May are most succssesful
 ### Analysis of Outcomes Based on Goals
-
+The campaign goals between less than 0 to 1000 to 5000 are most successful
 ### Challenges and Difficulties Encountered
-
+the criterian in the fomular to limit results to a range of a dollar amount
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-2185 campaigns were successful 
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
-
+- The two conclusions one can draw about the Outcomes based on Launch Date are ;
+a. Campaign launched in May was mor successful.
+b. Campaign launched in December was less successful
+- for the Outcomes based on Goals,
+May and June are the most successful 
+- The limitations of this dataset was that
+The dataset analysis did not tell which category will be more successful.
+-  some other possible tables and/or graphs that we could create are
+table that can show latest years, to see if the campaign can make more improvements.
